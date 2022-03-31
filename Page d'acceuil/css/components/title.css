@@ -1,0 +1,52 @@
+h1{
+ font-family: 'Jolly Lodger', cursive ;
+ font-size: 100px ;
+ margin: 10px ;
+}
+
+h2{
+ font-family: 'Jomhuria', cursive;
+ font-size: 30px ; 
+ margin: 10px ;
+}
+
+h3{
+ font-family: 'Josefin Sans';
+ font-size: 30px; 
+ padding: 10px ;
+ margin: 20px ;
+}
+
+h4{
+ font-family: 'Jacques Francois', serif;
+ font-size: 30px ;
+ text-align: center ;
+}
+
+h5{
+ font-family: 'Josefin Sans';
+ font-size: 20px; 
+ padding: 10px ;
+ margin: 20px ;
+}
+
+h6{
+ font-family: 'Jomhuria', cursive;
+ font-size: 30px ;
+ text-align: center;
+}
+
+p{
+ padding-right: 10px ; 
+ font-size: 20px
+}
+
+a{
+ text-decoration: none;
+ color: black ;
+}
+
+a:hover {
+ color: #524A4E;
+}
+

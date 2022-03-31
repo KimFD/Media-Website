@@ -1,0 +1,17 @@
+.container-banner{
+ text-align: left;
+ padding: 15px ;
+}
+
+.container-side-banner{
+ display: flex;
+ justify-content: flex-end;
+}
+
+.container-author-banner{
+ display: flex;
+ justify-content: flex-end;
+}
+
+
+ 

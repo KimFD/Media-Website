@@ -1,0 +1,43 @@
+.card-cinema{
+ width: 300px ;
+ height: 380px ;
+ border-radius: 50px ;
+ background-color: #84A59D ;
+ padding: 10px ;
+ box-shadow: 10px 10px 30px rgba(0,0,0,0.6) ;
+}
+
+.card-music{
+ width: 300px ;
+ height: 380px ;
+ border-radius: 50px ;
+ background-color: #F6BD60 ;
+ padding: 10px ;
+ box-shadow: 10px 10px 30px rgba(0,0,0,0.6) ;
+}
+
+.card-litterature{
+ width: 300px ;
+ height: 380px ;
+ border-radius: 50px ;
+ background-color: #F5CAC3 ;
+ padding: 10px ;
+ box-shadow: 10px 10px 30px rgba(0,0,0,0.6) ;
+}
+
+.card-videogames{
+ width: 300px ;
+ height: 380px ;
+ border-radius: 50px ;
+ background-color: #F28482 ;
+ padding: 10px ;
+ box-shadow: 10px 10px 30px rgba(0,0,0,0.6) ;
+}
+
+.flex-card{
+display: flex ;
+align-items: flex-end;
+justify-content: space-around;
+ width: 1500px ;
+margin: 40px auto ; 
+}
